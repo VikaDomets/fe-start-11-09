@@ -1,0 +1,22 @@
+.content-center {
+    text-align: center;
+}
+.content-right {
+    text-align: right;
+}
+.content-right p {
+    text-align: left;
+}
+.content-left {
+    text-align: left;
+}
+.h1 {
+    font-size: 40px;
+}
+.h2 {
+    font-size: 32px;
+}
+.center {
+    display: block;
+    margin: 0 auto;
+}
